@@ -5,8 +5,9 @@ import java.io.File;
 import java.io.IOException;
 import java.util.UUID;
 import java.awt.Font;
-
 import javax.imageio.ImageIO;
+
+// Generated image will be 5.2 MB size
 
 public class CreateImageFileFromGraphicsObject {
 
